@@ -53,7 +53,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
-- Create a task: Enter a task name and click the **Add Task** button.
+- Create a task: Enter a task name along with its status and click the **Add Task** button.
 - Delete a task: Click the **Delete** button next to the task you want to delete.
 - View the list of tasks: All the tasks are available under the **List of Tasks** section.
 
