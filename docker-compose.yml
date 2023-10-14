@@ -1,0 +1,9 @@
+# https://surrealdb.com/docs/installation/running/docker
+services:
+  db:
+    container_name: surreal
+    image: surrealdb/surrealdb:latest
+    ports:
+      - 8000:8000
+    restart: always
+    command: start
